@@ -1,0 +1,13 @@
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\bin\Debug\netcoreapp3.1\5Ex_Linq.exe
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\bin\Debug\netcoreapp3.1\5Ex_Linq.deps.json
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\bin\Debug\netcoreapp3.1\5Ex_Linq.runtimeconfig.json
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\bin\Debug\netcoreapp3.1\5Ex_Linq.runtimeconfig.dev.json
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\bin\Debug\netcoreapp3.1\5Ex_Linq.dll
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\bin\Debug\netcoreapp3.1\5Ex_Linq.pdb
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.csprojAssemblyReference.cache
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.AssemblyInfoInputs.cache
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.AssemblyInfo.cs
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.csproj.CoreCompileInputs.cache
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.dll
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.pdb
+C:\Users\erica\Documents\GiT\5Ex_Linq\5Ex_Linq\obj\Debug\netcoreapp3.1\5Ex_Linq.genruntimeconfig.cache
